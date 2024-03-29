@@ -1,0 +1,1 @@
+To run application user should mention the email address
